@@ -1,0 +1,29 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>apa_ss1_11_long_0.ymap</Item>
+    <Item>apa_ss1_11_strm_1.ymap</Item>
+    <Item>ss1_11_strm_1.ymap</Item>
+    <Item>ss1_11_long_0.ymap</Item>
+    <Item>apa_ss1_rd1_strm_0.ymap</Item>
+    <Item>ss1_rd1_strm_0.ymap</Item>
+    <Item>apa_ss1_11_strm_0.ymap</Item>
+    <Item>ss1_11_strm_0.ymap</Item>
+    <Item>olmc_teq_clubhouse.ymap</Item>
+    <Item>apa_ss1_08_strm_0.ymap</Item>
+    <Item>apa_ss1_rd1.ymap</Item>
+    <Item>myproject_lodlights.ymap</Item>
+    <Item>myproject_distantlights.ymap</Item>
+    <Item>apa_ss1_11_interior_v_rockclub_milo_.ymap</Item>
+    <Item>ss1_11_interior_v_rockclub_milo_.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>v_int_64.ytyp</Item>
+  </YtypFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
